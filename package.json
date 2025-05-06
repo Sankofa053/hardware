@@ -1,0 +1,14 @@
+{
+    "name": "com.immersivehub.HardwareIntergration",
+    "version": "0.0.1",
+    "displayName": "HarwareIntergration",
+    "description": "Intergrate custom hardware with Unity.",
+    "unity": "2019.1",
+    "dependencies": {
+      "https://github.com/endel/NativeWebSocket.git#upm": "1.1.5"
+   },
+    "author": {
+      "name": "immersivehub",
+      "email": "immersivehub.sa@gmail.com"
+    }
+  }
