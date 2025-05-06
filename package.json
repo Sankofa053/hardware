@@ -1,5 +1,5 @@
 {
-    "name": "com.DefaultCompany.INTERGRATE",
+    "name": "com.DefaultCompany.intergrate",
     "version": "0.0.1",
     "displayName": "HarwareIntergration",
     "description": "Intergrate custom hardware with Unity.",
